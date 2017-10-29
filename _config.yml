@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "baseurl:"
 description_latex: > # this means to ignore newlines until "baseurl:"
   Author, \textit{Title} (Place: Publisher, Year)
 baseurl: "/jekyll-book/" # the subpath of your site, e.g. /blog/
-url: "https://github.com/hoffmann-org"
+url: "https://hoffmann-org.github.io"
 editor: Jim Editor
 twitter: "@mytwitterhandle"
 license_icon: publicdomain
